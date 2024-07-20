@@ -1,6 +1,6 @@
 ## Igor Teixeira
 
-🎯 I'm a software developer trying to be more skilled.
+I'm a software developer.
 
 `Web Development`
 `Backend`
@@ -8,6 +8,6 @@
 `Flask`
 `REST`
 
-#### Connect with me:
+#### Links:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isteixeira)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8rj6DdqwmMV5sFNgOfGYOg)
