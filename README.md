@@ -6,7 +6,8 @@ I'm a software developer.
 `Backend`
 `Python`
 `Flask`
-`REST`
+`Fast API`
+`REST APIs`
 
 #### Links:
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8rj6DdqwmMV5sFNgOfGYOg)
