@@ -7,3 +7,9 @@
 #### Stats
 ![Igor's Top Languages](https://github-readme-stats-alpha-vert-55.vercel.app/api/top-langs/?username=igortxra&layout=compact&theme=dracula&show_icons=true&hide=javascript)
 
+### Hey, recruiters!
+ Look here 👇
+
+[I Know Fast API](https://github.com/igortxra/I-Know-FastAPI)
+
+[I Know RabbitMQ](https://github.com/igortxra/I-Know-RabbitMQ)
