@@ -10,6 +10,7 @@
 #### Demonstrations
 [I Know Fast API ---> Photo/Video Sharing App for demonstration](https://github.com/igortxra/I-Know-FastAPI) \
 [I Know Flask ---> Microblog that I created before my first job](https://github.com/igortxra/microblog) \
+[I Know Django ---> One of my graduation projects](https://github.com/SolutionUp/SolutionUp-System) \
 [I Know RabbitMQ ---> Demonstration of RabbitMQ Topologies](https://github.com/igortxra/I-Know-RabbitMQ) \
 [I Know Linux, Shell Script, Lua, Python ---> My dotfiles ](https://github.com/igortxra/dotfiles) \
 [I Know Ansible, Arch Linux ---> My Playbook to Setup Arch Linux](https://github.com/igortxra/ansible-arch-setup) \
